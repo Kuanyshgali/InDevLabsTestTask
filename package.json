@@ -1,0 +1,12 @@
+{
+  "name": "indevlab_testtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Aserbekov Kuanyshgali",
+  "license": "ISC"
+}
