@@ -34,5 +34,6 @@ const findMissingMemberInSequence = (array) => {
 console.log(findMissingMemberInSequence([7, 9, 10, 11, 12])) // 8
 console.log(findMissingMemberInSequence( [5, 0, 1, 3, 2])) // 4
 console.log(findMissingMemberInSequence( [0, 2])) // 1
+console.log(findMissingMemberInSequence( [0, 1, 2, 3, 4, 5])) // 6
 console.log(findMissingMemberInSequence( [999, 1001])) //1000
 
